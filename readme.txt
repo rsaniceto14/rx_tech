@@ -4,11 +4,7 @@ Documentation for Screen Template by Bootstrapious - https://bootstrapious.com
 
 ################################################################################################
 
-Hi,
-
-thank you for downloading. Have fun and tell your friends about us ;)
-
-Ondrej from Bootstrapious
+Landing page software house
 
 
 CSS
